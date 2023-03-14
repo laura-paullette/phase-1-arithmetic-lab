@@ -12,6 +12,6 @@ let num4 = 13
 let mod =(num3%= num4)
 
 let max = 20
-math.max(0,20)
+math.max(4,8,12,16,20)
 
 
